@@ -1,5 +1,4 @@
-Coding Interview Prep
-=====================
+# [Coding Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep/)
 
 If you're looking for free coding exercises to prepare for your next job interview, we've got you covered.
 
@@ -7,8 +6,7 @@ This section contains hundreds of coding challenges that test your knowledge of 
 
 The Project Euler Project has been moved to it's own course. Go back to curriculum to see the list of courses we offer.
 
-Courses
--------
+## Courses
 
 ### Algorithms
 
