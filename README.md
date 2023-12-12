@@ -14,9 +14,7 @@ These free programming exercises will teach you about some common algorithms tha
 
 These algorithms are frequently used in job interviews to test a candidate's skills. We'll give you clear and concise explanations of how these different algorithms work so you can implement a solution for each one.
 
-Collapse course Algorithms
-
-Not Passed0/10, 0 of 10 challenges completed
+10 challenges
 
 - [Find the Symmetric Difference](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/find-the-symmetric-difference)
 - [Inventory Update](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/inventory-update)
@@ -35,9 +33,7 @@ These free programming courses are meant to help you deal with large and complex
 
 Working through the courses below, you will learn about each type of data structure, and implement algorithms to reinforce your understanding of them.
 
-Collapse course Data Structures
-
-Not Passed0/46, 0 of 46 challenges completed
+46 challenges
 
 - [Typed Arrays](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/typed-arrays)
 - [Learn how a Stack Works](https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/learn-how-a-stack-works)
@@ -92,9 +88,7 @@ Programming interviews have always been stressful. Job applicants are sometimes 
 
 Build the bonus coding projects below for extra practice. Take your time, make them great, and put them on your resume or portfolio to show potential employers.
 
-Collapse course Take Home Projects
-
-Not Passed0/20, 0 of 20 challenges completed
+20 challenges
 
 - [Show the Local Weather](https://www.freecodecamp.org/learn/coding-interview-prep/take-home-projects/show-the-local-weather)
 - [Build a Wikipedia Viewer](https://www.freecodecamp.org/learn/coding-interview-prep/take-home-projects/build-a-wikipedia-viewer)
@@ -125,9 +119,7 @@ These challenges can prove to be difficult, but they will push your algorithm lo
 
 [Attribute: Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 
-Collapse course Rosetta Code
-
-Not Passed0/160, 0 of 160 challenges completed
+160 challenges
 
 - [100 doors](https://www.freecodecamp.org/learn/coding-interview-prep/rosetta-code/100-doors)
 - [24 game](https://www.freecodecamp.org/learn/coding-interview-prep/rosetta-code/24-game)
